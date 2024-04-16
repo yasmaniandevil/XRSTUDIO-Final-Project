@@ -1,0 +1,79 @@
+# Blender MTL File: 'FEKPatio.blend'
+# Material Count: 7
+
+newmtl GeneratedMat6.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Admin\\Ein Karem\\Mix to Blend OBJS\\EKPatio\\EKPatio_GeneratedMat6.png
+
+newmtl material0000.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Admin\\Ein Karem\\Mix to Blend OBJS\\EKPatio\\EKPatio_material0000.jpg
+
+newmtl material0001.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Admin\\Ein Karem\\Mix to Blend OBJS\\EKPatio\\EKPatio_material0001.jpg
+
+newmtl material0002.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Admin\\Ein Karem\\Mix to Blend OBJS\\EKPatio\\EKPatio_material0002.jpg
+
+newmtl material0003.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Admin\\Ein Karem\\Mix to Blend OBJS\\EKPatio\\EKPatio_material0003.jpg
+
+newmtl material0004.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Admin\\Ein Karem\\Mix to Blend OBJS\\EKPatio\\EKPatio_material0004.jpg
+
+newmtl material0005.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Admin\\Ein Karem\\Mix to Blend OBJS\\EKPatio\\EKPatio_material0005.jpg
